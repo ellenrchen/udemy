@@ -1,0 +1,29 @@
+/*********************TAG SELECTORS******************/
+body{
+  background-color: #e8f1f5;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: #d3d4d8;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color:#004a7c;
+}
+
+h1:hover{
+  color:#3fbac2;
+}
+
+/*******************CLASS SELECTORS*****************/
+.cake{
+  width:285px;
+  height:400px;
+}
+
+/*******************ID SELECTORS*******************/
+#profile_pic{
+  border-radius:100%;
+}
